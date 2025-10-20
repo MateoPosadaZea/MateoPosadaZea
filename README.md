@@ -14,7 +14,7 @@ I care about clean structure, accessibility, and craft. Currently studying at **
 - Modern JavaScript (DOM, modules, fetch, accessibility patterns)
 - React + Vite (state, effects, API data, component design)
 - Node/Express basics (REST, validation, testing)
-- “Developer hygiene”: readable commits, docs, and small PRs
+- Best practices: readable commits, docs, and small PRs
 
 
 ## Toolbox
