@@ -61,7 +61,7 @@ I care about clean structure, accessibility, and craft. Currently studying at **
 ---
 
 ### Let’s connect
-- 🌐 **Website:** mattriz.com  
+- 🌐 **Website:** [mattriz.com  ](https://mattriz.com/)
 - 💼 **LinkedIn:** https://www.linkedin.com/in/mateo-posada-zea/
 - ✉️ **Email:** contacto@mattriz.com  
 - 📌 **Status:** 🌱 TripleTen — shipping daily
