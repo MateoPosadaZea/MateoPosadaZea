@@ -3,7 +3,7 @@
 I’m a UI/UX-minded web developer transitioning from brand & web design to modern frontend.  
 I care about clean structure, accessibility, and craft. Currently studying at **TripleTen Web Dev** and building in public.
 
-- 🧭 **Goal (2025–2026):** land remote US-based frontend work and grow **Mattriz Studio** into a lean product/design shop.
+- 🧭 **Goal (2025–2026):** land remote US-based frontend work and grow **Mattriz Studio** into a lean product/design/development studio.
 - 🎓 **Background:** 6+ years designing visual identities & websites (Webflow/WordPress, SEO, e-commerce).
 - 🌍 **Based in:** Bogotá (UTC-5) · open to remote 
 
