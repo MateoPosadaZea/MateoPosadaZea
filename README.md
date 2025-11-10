@@ -10,46 +10,40 @@ I care about clean structure, accessibility, and craft. Currently studying at **
 ---
 
 ## What I’m focusing on now
-- HTML/CSS architecture (semantic landmarks, Grid/Flex, tokens)
-- Modern JavaScript (DOM, modules, fetch, accessibility patterns)
-- React + Vite (state, effects, API data, component design)
-- Node/Express basics (REST, validation, testing)
-- Best practices: readable commits, docs, and small PRs
+- Semantics & accessibility (WCAG), BEM, Grid/Flex, responsive.
+- JavaScript: DOM, events, fetch/JSON, modules.
+- Git/GitHub: branches, PRs, readable commits, GitHub Pages.
 
 
 ## Toolbox
-- **Languages:** HTML5, CSS (Grid/Flex/Tailwind), JavaScript (ES202x)
-- **Frontend:** React, Vite
-- **Backend (basics):** Node.js, Express
-- **Quality:** Jest, ESLint/Prettier, Git & GitHub, GitHub Actions
+- **Languages:** HTML5, CSS3, JavaScript (ES202x)  
+- **Tooling:** Webpack, NPM Scripts, ESLint/Prettier  
+- **Version control:** Git & GitHub (Pages, Actions)  
 - **CMS / No-code:** Webflow, WordPress/WooCommerce, Shopify
 - **SEO & A11y:** On-page SEO, Accessibility (WCAG)
 ---
 
-## Selected / current projects
-> I’m shipping small, polished pieces first—quality over size.
+## Selected projects
 
-- **HTML/CSS Starter** — Semantic layout + Grid/Flex utilities and tokens.  
-  _Repo:_ `html-css-starter` · _Live:_ (soon)
+- **Coffee Shop — landing** · BEM, Grid/Flex, responsive  
+  Repo: https://github.com/MateoPosadaZea/coffee-shop-landing
 
-- **JS Sandbox** — Vanilla JS components (tabs, modal with focus trap, form validation).  
-  _Repo:_ `js-sandbox`
-
-- **Portfolio 2025** — GitHub Pages hub for my work and study log.  
-  _Repo:_ `portfolio-2025` · _Live:_ (soon)
-
-- **Learning log** — Daily notes from the TripleTen journey.  
-  _Repo:_ `log-2025-bootcamp`
-
-> Next up: `react-movie-search` (API search with debounced input) and `node-express-api-starter` (CRUD + validation + tests).
+- **Library — landing** · semantic sections, clean spacing, reusable components  
+  Repo: https://github.com/MateoPosadaZea/library-landing
 
 ---
 
 ## How I work
-- Conventional commits (`feat:`, `fix:`, `refactor:`, `docs:`)
-- PRs over direct pushes (even solo) to keep history reviewable
-- Lint & format on CI; checklists for a11y (labels, focus, contrasts, keyboard)
-- Short READMEs with setup steps and screenshots
+- **Conventional Commits** (`feat:`, `fix:`, `docs:`, `refactor:`) + small, focused PRs
+- **PRs over direct pushes** (even solo) to keep a reviewable history
+- **Semantic HTML + BEM**; layout with **Grid/Flex**; tokens for spacing/type
+- **Accessibility first**: labels/landmarks, keyboard/focus, contrast checks
+- **Lint & format** with ESLint/Prettier; no warnings on commit
+- **Project READMEs**: one-screen setup, *Live demo* link (GitHub Pages), and screenshot
+- **GitHub hygiene**: clear repo names + topics; pinned showcase repos
+- **Daily shipping**: incremental commits, changelog-style messages
+- **Tooling (course-aligned)**: Webpack as default; exploring Vite on side projects
+- **Collab**: open to pair programming / code reviews; issues for todos & roadmap
 
 ---
 
