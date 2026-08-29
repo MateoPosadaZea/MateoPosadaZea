@@ -1,61 +1,30 @@
-# Mateo Posada — Frontend Developer in progress 👋
+# Mateo Posada — Builder & Founder, Mattriz 👋
 
-I’m a UI/UX-minded web developer transitioning from brand & web design to modern frontend.  
-I care about clean structure, accessibility, and craft. Currently studying at **TripleTen Web Dev** and building in public.
+I run [Mattriz](https://mattriz.com), a one-person studio that builds and operates
+booking, payment, and operations systems for service businesses in the US and LATAM.
 
-- 🧭 **Goal (2025–2026):** land remote US-based frontend work and grow **Mattriz Studio** into a lean product/design/development studio.
-- 🎓 **Background:** 6+ years designing visual identities & websites (Webflow/WordPress, SEO, e-commerce).
-- 🌍 **Based in:** Bogotá (UTC-5) · open to remote 
+I own the full cycle: diagnosis, proposal, build, deployment, and monthly operation.
+Design background, systems mindset, production-first.
 
----
+**Currently in production**
+- Booking & payments platform for a mobile detailing company in California —
+  100+ bookings processed, corporate contract with a law firm, zero findings
+  in their security review. Running since 2025.
+- Marketing & operations sites for clients in the US and Colombia
+  (WordPress/WooCommerce, GoHighLevel, Stripe).
 
-## What I’m focusing on now
-- Semantics & accessibility (WCAG), BEM, Grid/Flex, responsive.
-- JavaScript: DOM, events, fetch/JSON, modules.
-- Git/GitHub: branches, PRs, readable commits, GitHub Pages.
+**How I build**
+- Ship small, verify in production, iterate. No "done" without checking the deployed file.
+- AI-augmented workflow: I direct architecture, scope, and quality; AI accelerates the code.
+- Closed scope, clear deliverables, documented handoffs.
 
+**Toolbox**
+Astro · Cloudflare (Pages/Functions) · Supabase · Stripe · WordPress/WooCommerce ·
+GA4 · HTML/CSS/JS · Git/GitHub
 
-## Toolbox
-- **Languages:** HTML5, CSS3, JavaScript (ES202x)  
-- **Tooling:** Webpack, NPM Scripts, ESLint/Prettier  
-- **Version control:** Git & GitHub (Pages, Actions)  
-- **CMS / No-code:** Webflow, WordPress/WooCommerce, Shopify
-- **SEO & A11y:** On-page SEO, Accessibility (WCAG)
----
+**Beyond code**
+Product thinking, brand systems, typography. Recovering footballer 🦿,
+learning calisthenics, reading more than shipping some weeks.
 
-## Selected projects
-
-- **Coffee Shop — landing** · BEM, Grid/Flex, responsive  
-  Repo: https://github.com/MateoPosadaZea/coffee-shop-landing
-
-- **Library — landing** · semantic sections, clean spacing, reusable components  
-  Repo: https://github.com/MateoPosadaZea/library-landing
-
----
-
-## How I work
-- **Conventional Commits** (`feat:`, `fix:`, `docs:`, `refactor:`) + small, focused PRs
-- **PRs over direct pushes** (even solo) to keep a reviewable history
-- **Semantic HTML + BEM**; layout with **Grid/Flex**; tokens for spacing/type
-- **Accessibility first**: labels/landmarks, keyboard/focus, contrast checks
-- **Lint & format** with ESLint/Prettier; no warnings on commit
-- **Project READMEs**: one-screen setup, *Live demo* link (GitHub Pages), and screenshot
-- **GitHub hygiene**: clear repo names + topics; pinned showcase repos
-- **Daily shipping**: incremental commits, changelog-style messages
-- **Tooling (course-aligned)**: Webpack as default; exploring Vite on side projects
-- **Collab**: open to pair programming / code reviews; issues for todos & roadmap
-
----
-
-## Beyond code
-- I run **Mattriz Studio**—design + web for small/medium businesses.
-- Into product thinking, systems, and details that compound over time.
-- Recovering footballer 🦿, learning calisthenics, and rebuilding consistency.
-
----
-
-### Let’s connect
-- 🌐 **Website:** [mattriz.com  ](https://mattriz.com/)
-- 💼 **LinkedIn:** https://www.linkedin.com/in/mateo-posada-zea/
-- ✉️ **Email:** contacto@mattriz.com  
-- 📌 **Status:** 🌱 TripleTen — shipping daily
+**Contact**
+🌐 [mattriz.com](https://mattriz.com) · 💼 [LinkedIn](https://www.linkedin.com/in/mateo-posada-zea/) · ✉️ contacto@mattriz.com
